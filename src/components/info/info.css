@@ -1,0 +1,29 @@
+
+
+
+
+
+.info__container{
+    padding-top: 80px;
+    padding-bottom: 101px;
+}
+.info__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.info__title{
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 141px;
+    text-align: center;
+    color: #01384D; 
+    margin-bottom: 10px;
+}
+.info__text{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #01384D;  
+}
